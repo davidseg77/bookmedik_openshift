@@ -1,4 +1,4 @@
-FROM docker.io/davidseg77/bookmedik:base
+FROM docker.io/dparrales/bookmedik:base
 MAINTAINER David Segura "davidseg@gmail.com"
 EXPOSE 8080
 ENV USUARIO_BOOKMEDIK=bookmedik
